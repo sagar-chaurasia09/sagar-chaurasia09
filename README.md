@@ -1,16 +1,31 @@
-## Hi there 👋
+ # Hi 👋, I'm Sagar Chaurasia
 
-<!--
-**sagar-chaurasia09/sagar-chaurasia09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | MERN Stack | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🎓 B.Tech Computer Science Student
+
+💻 Passionate about Full Stack Development
+
+🤖 Building AI-powered applications
+
+🌱 Currently Learning:
+- Next.js
+- System Design
+- AI Integrations
+
+---
+
+## Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,vscode)
+
+---
+
+## Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/sagar-chaurasia-bb9756274/
+- Email: sagarchaurasia09@gmail.com  
