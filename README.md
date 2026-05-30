@@ -56,15 +56,6 @@ Gemini-powered chatbot for NEFT UTR tracking and transaction assistance.
 Modern responsive frontend project showcasing UI/UX skills.
 
 ---
-
- ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sagar-chaurasia09&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-chaurasia09&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <div align="center">
