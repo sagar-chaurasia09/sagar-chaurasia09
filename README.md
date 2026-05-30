@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Sagar%20Chaurasia&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Enthusiast&descAlignY=60"/>
+</p>
  <div align="center">
 
 # Hi 👋, I'm Sagar Chaurasia
