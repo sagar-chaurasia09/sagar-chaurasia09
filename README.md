@@ -2,15 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Sagar%20Chaurasia&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Enthusiast&descAlignY=60"/>
 </p>
  <div align="center">
-
-# Hi 👋, I'm Sagar Chaurasia
-
-### Full Stack Developer • MERN Stack • AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Powered+Applications;MERN+Stack+Developer;Full+Stack+Developer;Always+Learning+New+Things" />
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
