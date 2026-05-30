@@ -13,7 +13,7 @@
 🚀 Building real-world applications with MERN Stack
 
 🌱 Currently Learning:
-- Next.js
+Next.js
 - System Design
 - AI Integrations
 - Cloud Technologies
